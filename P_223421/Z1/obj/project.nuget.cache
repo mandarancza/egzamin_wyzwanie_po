@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6yjVuopF2WbNkJnzXgaLsFXRlnIeGur85pPpYPefe8o//SUP+fDxdddccmtrXmWouSUx8wgskd20Y/3ApT+czA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tenis\\source\\repos\\P_223421\\Z1\\Z1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tenis\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

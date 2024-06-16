@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\tenis\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\tenis\\.nuget\\packages"
+    ]
+  }
+}

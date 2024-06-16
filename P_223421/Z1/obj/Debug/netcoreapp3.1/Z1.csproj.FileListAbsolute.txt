@@ -1,0 +1,10 @@
+C:\Users\tenis\source\repos\P_223421\Z1\bin\Debug\netcoreapp3.1\Z1.deps.json
+C:\Users\tenis\source\repos\P_223421\Z1\bin\Debug\netcoreapp3.1\Z1.dll
+C:\Users\tenis\source\repos\P_223421\Z1\bin\Debug\netcoreapp3.1\Z1.pdb
+C:\Users\tenis\source\repos\P_223421\Z1\obj\Debug\netcoreapp3.1\Z1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tenis\source\repos\P_223421\Z1\obj\Debug\netcoreapp3.1\Z1.AssemblyInfoInputs.cache
+C:\Users\tenis\source\repos\P_223421\Z1\obj\Debug\netcoreapp3.1\Z1.AssemblyInfo.cs
+C:\Users\tenis\source\repos\P_223421\Z1\obj\Debug\netcoreapp3.1\Z1.csproj.CoreCompileInputs.cache
+C:\Users\tenis\source\repos\P_223421\Z1\obj\Debug\netcoreapp3.1\Z1.dll
+C:\Users\tenis\source\repos\P_223421\Z1\obj\Debug\netcoreapp3.1\Z1.pdb
+C:\Users\tenis\source\repos\P_223421\Z1\obj\Debug\netcoreapp3.1\Z1.csproj.AssemblyReference.cache
